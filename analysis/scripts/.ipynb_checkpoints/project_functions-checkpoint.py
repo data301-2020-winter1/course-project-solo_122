@@ -4,7 +4,9 @@ def load_and_process(url_or_path_to_csv_file):
 
     df1 = (
           pd.read_csv(url_or_path_to_csv_file)
-          .fill
+          .rename(...)
+          .dropna(...)
+          # etc...
       )
 
     # Method Chain 2 (Create new columns, drop others, and do processing)
