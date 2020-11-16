@@ -1,1 +1,1 @@
-This directory contains the adultNames.csv which contains descriptions of all attributes and adultData.csv which has the raw data of dataset.
+This directory contains the adult.name which contains descriptions of all attributes and adult.data which has the raw data of dataset.
