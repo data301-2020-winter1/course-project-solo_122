@@ -20,3 +20,4 @@ Sebi Unipan: My name is short for Sebastian.
 ## References
 
 {Adult Incomes dataset: https://archive.ics.uci.edu/ml/datasets/adult}
+VIDEO LINK: https://youtu.be/V-vx6V9KVec
